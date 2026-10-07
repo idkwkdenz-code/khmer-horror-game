@@ -1,0 +1,21 @@
+keys,en,km
+MENU_PLAY,Play,លេង
+MENU_SETTINGS,Settings,ការកំណត់
+MENU_INFO,Info,ព័ត៌មាន
+MENU_EXIT,Exit,ចាកចេញ
+GAME_TITLE,Khmer Horror,ខ្មែរគំរាមកំឡុងព្រ���
+GAME_SUBTITLE,Soul of the Forest,ព្រៃស្រស់របស់ខាងក្រោយ
+PLAYER_NAME,Player Name,ឈ្មោះអ្នកលេង
+DIALOGUE_INTRO,The forest is waking up... ,ព្រៃកំពុងភ្ញាក់ឡើង...
+DIALOGUE_GHOST,Someone is watching you from the shadows...,មាននរណាម្នាក់កំពុងមើលអ្នកពីក្នុងស្រមោល...
+DIALOGUE_ESCAPE,Find the key and survive the night.,រកសោ ហើយរស់រានពេលយប់នេះ។
+INVENTORY,Inventory,សារព័ត៌មាន
+SETTINGS,Settings,ការកំណត់
+BG_MUSIC,Horror Music,តន្ត្រីភ័យរន្ធត់
+SFX,Sound Effects,ឥទ្ធិពលសំឡេង
+LANGUAGE,Language,ភាសា
+CREDITS,Credits,ការគាំទ្រ
+LOBBY,Multiplayer Lobby,បន្ទប់លេងជាមួយគ្នា
+OFFLINE,Offline Mode,ម៉ូដក្រៅបណ្ដាញ
+ONLINE,Online Mode,ម៉ូដលើអ៊ីនធើណិត
+INFO_TEXT,Khmer horror survival prototype with realistic lighting, ghost AI, and atmospheric sound design.,គំរូរឿងភ័យខ្លាចខ្មែរ ដោយមានពន្លឺធម្មជាតិ អេមភ័យ និងធ្វើឱ្យមានអារម្មណ៍ព្រៃចោមរាស់។
